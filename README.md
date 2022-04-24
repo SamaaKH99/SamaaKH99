@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samaa</h1>
-<h3 align="center">A web developer from Egypt</h3>
+<h3 align="center"> Full Stack Web developer</h3>
 
 - 🌱 I’m currently learning **Software Architecture**
 
