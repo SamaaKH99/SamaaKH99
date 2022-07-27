@@ -1,7 +1,7 @@
 <h1>Hello 👋, I'm Samaa</h1>
 <h3>A Full Stack Web developer</h3>
 
-- 🌱 I’m currently learning **Software Architecture**
+- 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate**
 
 - 📫 How to reach me **samaakhaled87@gmail.com**
 
